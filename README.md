@@ -3,56 +3,10 @@
      <h1 align="center">
             <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Hi+There!+👋;+💥+I'm+Abdi+chala!+💥;+✨+Software+Engineering+Student!+🎉;" />
         </h1>
-   <h3 align="center">I'm a passionate Web Developer.</h3>
+   <h3 align="center">[I'm a passionate Web Developer.](https://github.com/Abadan-Chala)</h3>
     </div>
 </div>
 
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently student at **Haramaya University**
-
-- 🌱 I’m also interested on **Digital Markating**
-
-- 👨‍💻 All of my projects are available at **[https://abaytesfaye.netlify.app/](https://abaytesfaye.netlify.app/)**
-
-- 📫 How to reach me **abaytesfaye02@gmail.com**
-
-- 💬 Feel free for **DM**
-
-## 🚀 Languages and Tools:
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,javascript,typescript,react,nextjs,nodejs,express,php,laravel,figma" />
-    <img src="https://skillicons.dev/icons?i=python,java,firebase,mongodb,mysql,flask,vscode,github,git,gitlab,photoshop" /><br>
-</div>
 
 
-
-<br/>
-
-<p align="center">
-  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AbayTesfaye&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</p>
-
-
-## 📊 My GitHub Profile Summary
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbayTesfaye&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbayTesfaye&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbayTesfaye&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbayTesfaye&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbayTesfaye&theme=dracula&utcOffset=8)
-
-## Social Media:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/abay-tesfaye-251742310/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://x.com/Eey_ban?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/eeyban2/profilecard/?igsh=eDZiZnplNDYzaG0x"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
-
-## My ❤ Followers:
-<a href="https://github.com/AbayTesfaye?tab=followers"><img src="https://img.shields.io/github/followers/AbayTesfaye?label=Followers&style=social" alt="GitHub Badge"></a>
